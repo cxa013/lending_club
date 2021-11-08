@@ -8,5 +8,5 @@ unzip awscliv2.zip
 sudo ./aws/install
 aws --version
 pip install jupyterlab;
-pip install pandas scikit-learn matplotlib imblearn seaborn scipy statsmodels openpyxl fsspec s3fs
+pip install pandas scikit-learn matplotlib imblearn seaborn scipy statsmodels openpyxl fsspec s3fs xgboost
 export PATH=$PATH:~/.local/bin;
